@@ -12,7 +12,10 @@
   - Knows git
 - Jacob
   - cpp
+  - c#
   - hardware
+  - soldering
+  - mircocontrollers
 - Harman
   - hardware
   - figma
