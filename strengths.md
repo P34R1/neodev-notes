@@ -17,5 +17,9 @@
   - hardware
   - figma
   - Java
-- Brady
+- Bradey
   - hardware
+  - Soldering
+  - Circuit boards
+  - java arduino
+  - bit of python
