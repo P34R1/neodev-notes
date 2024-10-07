@@ -9,6 +9,7 @@
   - Python
   - Basic Hardware
   - Flexable
+  - Knows git
 - Jacob
   - cpp
   - hardware
