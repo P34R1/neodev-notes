@@ -27,6 +27,6 @@
   - java arduino
   - bit of python
 - Vaidik
-  - hardware
-  - "a bit of software"
+  - hardware (Soldering, Arduino, Wiring Circuit Boards, basically everything related to hardware)
+  - Software (Java, C++, and  bit of Python)
   - doesn't open discord much
