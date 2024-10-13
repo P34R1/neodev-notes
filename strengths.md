@@ -26,3 +26,7 @@
   - Circuit boards
   - java arduino
   - bit of python
+- Vaidik
+  - hardware
+  - "a bit of software"
+  - doesn't open discord much
