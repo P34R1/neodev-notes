@@ -7,4 +7,4 @@ Our Part Selection:
   - Ardruino Uno x2
   - RaspberryPi 3B+
 - Components:
- - waiting for recomended
+  - waiting for recomended
