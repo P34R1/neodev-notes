@@ -16,6 +16,7 @@
   - hardware
   - soldering
   - mircocontrollers
+  - kinda knows git
 - Harman
   - hardware
   - figma
